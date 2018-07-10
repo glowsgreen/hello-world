@@ -1,4 +1,6 @@
 import numpy as np
 import pandas as pd
 
-print('hello world')
+
+a = 3+3
+print('hello world and 3 + 3 is %d' %a)
